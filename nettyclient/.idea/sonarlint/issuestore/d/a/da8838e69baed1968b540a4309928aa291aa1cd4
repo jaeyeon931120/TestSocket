@@ -1,0 +1,29 @@
+
+M
+java:S2629:"7Use the built-in formatting to construct this argument.(‡«Ó¦
+L
+java:S2629G"7Use the built-in formatting to construct this argument.(îÄ
+M
+java:S2629k"7Use the built-in formatting to construct this argument.(‡«Ó¦
+m	java:S116"SRename this field "lostCnt_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Óî ıÿÿÿÿ
+k	java:S116"VRename this field "LIMIT_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‡¢
+l	java:S116 "RRename this field "action_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÍ°Üşÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(¨‡¢
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Âšöóüÿÿÿÿ
+W
+java:S3457:"AFormat specifiers should be used instead of string concatenation.(‡«Ó¦
+Q
+java:S1854H";Remove this useless assignment to local variable "content".(°í±é
+T
+java:S4719F"9Replace charset name argument with StandardCharsets.UTF_8(÷Ö¼ùÿÿÿÿ
+V
+java:S3457G"AFormat specifiers should be used instead of string concatenation.(îÄ
+B
+java:S1481H",Remove this unused "content" local variable.(°í±é
+?
+java:S1481I")Remove this unused "data" local variable.(€è¤
+W
+java:S3457k"AFormat specifiers should be used instead of string concatenation.(‡«Ó¦
+F
+java:S1068"0Remove this unused "nettyService" private field.(ÂÙÔº

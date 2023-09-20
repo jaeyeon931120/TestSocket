@@ -1,0 +1,16 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(õ½£îıÿÿÿÿ
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(ùçİ€ÿÿÿÿÿ8ÓòÛ¤ã0
+M
+java:S2629%"7Use the built-in formatting to construct this argument.(Ö”›ğ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ½£îıÿÿÿÿ
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹Å·
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(´û‚©
+W
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(Ö”›ğ
+C	java:S108'")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ
+
+java:S1130/"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùçİ€ÿÿÿÿÿ8ŞòÛ¤ã0
+c
+java:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ª¢¿äüÿÿÿÿ

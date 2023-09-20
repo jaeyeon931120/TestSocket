@@ -1,0 +1,8 @@
+
+P
+java:S3416":Update this logger to use "NettyServerStartProcess.class".(¹ŽúŠ
+R
+java:S1854"<Remove this useless assignment to local variable "resource".(úÑ¯Š
+C
+java:S1481"-Remove this unused "resource" local variable.(úÑ¯Š
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­¼‡

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:p="http://www.springframework.org/schema/p"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xmlns:mvc="http://www.springframework.org/schema/mvc"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+                http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+                http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd">
+
+
+	<!-- js,css,img 파일등 정적 파일은 디폴트 서블렛핸들러가 처리하도록 설정 -->
+	<mvc:default-servlet-handler />
+
+    <mvc:resources mapping="/rs/**" location="/resources/" />
+	
+    <!-- Uncomment and your base-package here: -->
+    <context:component-scan base-package="com.kevinlab">
+        <context:include-filter
+                type="annotation"
+                expression="org.springframework.stereotype.Controller"/>
+    </context:component-scan>
+    
+	<mvc:annotation-driven />
+	
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+	        <property name="prefix" value="/WEB-INF/jsp/"/>
+	        <property name="suffix" value=".jsp"/>
+	</bean>
+	
+	<bean class="org.springframework.web.servlet.view.BeanNameViewResolver">
+		<property name="order" value="0" />
+	</bean>
+	
+	<!-- JSON 객체 리턴을 위해 추가 -->
+<!-- 	<bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter"> -->
+<!-- 		<property name="messageConverters"> -->
+<!-- 			<list> -->
+<!-- 				<bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter"/> -->
+<!-- 			</list> -->
+<!-- 		</property> -->
+<!-- 	</bean> -->
+
+	<!-- 엑셀 파일 업로드 및 파일 업로드를 위한 처리 -->
+<!--	<bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver"/>-->
+	
+    <bean class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">
+        <property name="defaultErrorView" value="common/error"/>
+        <property name="exceptionMappings">
+            <props>
+                <prop key="org.springframework.dao.DataAccessException">common/error/dataAccessFailure</prop>
+                <prop key="org.springframework.transaction.TransactionException">common/error/transactionFailure</prop>
+            </props>
+        </property>
+    </bean>
+
+	<!-- Json View -->
+	<!-- <bean name="jsonView" class="org.springframework.web.servlet.view.json.MappingJacksonJsonView" /> -->
+
+</beans>

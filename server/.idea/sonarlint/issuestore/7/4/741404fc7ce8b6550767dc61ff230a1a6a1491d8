@@ -1,0 +1,8 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Β¶Δ“8΅¤Ζγ0
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(ϊγμ¥ωÿÿÿÿ8ψ¦Ι¤γ0
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ϊγμ¥ωÿÿÿÿ8€§Ι¤γ0
+{
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ύΎ8€§Ι¤γ0

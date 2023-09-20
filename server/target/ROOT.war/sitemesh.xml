@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemesh>
+	
+<!-- <mapping path="/main" 		decorator="/WEB-INF/jsp/common/mainLayout.jsp"/>   -->
+  <mapping path="/*" 			decorator="/WEB-INF/jsp/common/layout.jsp"/>
+  <mapping path="/safety/*" 	decorator="/WEB-INF/jsp/common/layout.jsp"/>  
+  <mapping path="/main" 		decorator="/WEB-INF/jsp/common/layout.jsp"/>
+
+  <mapping path="/dashboard/*" 	decorator="/WEB-INF/jsp/common/dashboardLayout.jsp"/>
+  
+<!--   <mapping path="/ems/" 	decorator="/WEB-INF/jsp/common/opupLayout.jsp"/> -->
+<!--   <mapping path="/dashboard/popup/**" decorator="/WEB-INF/jsp/common/popupLayout.jsp"/> -->
+  
+  <!-- Exclude path from decoration. -->
+  <mapping path="/auth/signin" exclue="true"/>
+  <mapping path="/auth/signUp" exclue="true"/>
+  <mapping path="/common/error/*" exclue="true"/>
+  <mapping path="/rs/**" exclue="true"/>
+  <mapping path="/*/print/**" exclue="true"/>
+  
+</sitemesh>

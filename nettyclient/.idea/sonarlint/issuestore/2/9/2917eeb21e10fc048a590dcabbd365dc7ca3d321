@@ -1,0 +1,19 @@
+
+d
+java:S1192$"IDefine a constant instead of duplicating this literal "========" 3 times.(ßÛÑâúÿÿÿÿ
+R
+java:S2629$"7Use the built-in formatting to construct this argument.(ßÛÑâúÿÿÿÿ
+M
+java:S2629%"7Use the built-in formatting to construct this argument.(ÀÔ²ƒ
+w
+java:S2629&"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(öç”Îøÿÿÿÿ
+J
+java:S3416"4Update this logger to use "NettyStartProcess.class".(¹úŠ
+\
+java:S3457$"AFormat specifiers should be used instead of string concatenation.(ßÛÑâúÿÿÿÿ
+W
+java:S3457%"AFormat specifiers should be used instead of string concatenation.(ÀÔ²ƒ
+\
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(öç”Îøÿÿÿÿ
+@
+java:S2116&"%Use "Arrays.toString(array)" instead.(öç”Îøÿÿÿÿ

@@ -1,0 +1,181 @@
+
+t
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Ä«şÿÿÿÿ
+o
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÒÅÈ
+o
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(éğ¬Û
+o
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨‘ë¼
+o
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û´úÓ
+o
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(®Ø‡Ú
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤¨÷üÿÿÿÿ
+u
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(×Ä«şÿÿÿÿ
+p
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÒÅÈ
+p
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(éğ¬Û
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨‘ë¼
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û´úÓ
+a
+java:S1192š"JDefine a constant instead of duplicating this literal "stop_time" 3 times.(§ª¢±
+_
+java:S1192ç"IDefine a constant instead of duplicating this literal "err_code" 5 times.(¹³ p
+g
+java:S1192™"KDefine a constant instead of duplicating this literal "start_time" 4 times.(ü÷À»üÿÿÿÿ
+d
+java:S1192è"MDefine a constant instead of duplicating this literal "err_code_com" 5 times.(š…›Ş
+_
+java:S1192•"HDefine a constant instead of duplicating this literal "in_temp" 4 times.(ø›®”
+`
+java:S1192–"IDefine a constant instead of duplicating this literal "out_temp" 4 times.(àœèı
+o	java:S135É"YReduce the total number of break and continue statements in this loop to use at most one.(¡ßÅì
+o	java:S135û"YReduce the total number of break and continue statements in this loop to use at most one.(¡ßÅì
+o	java:S135°"YReduce the total number of break and continue statements in this loop to use at most one.(¡ßÅì
+o	java:S135å"YReduce the total number of break and continue statements in this loop to use at most one.(¡ßÅì
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¡ßÅì
+f	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úû¾
+k	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èâØÚÿÿÿÿÿ
+e	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûá·k
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«·×ùÿÿÿÿ
+f	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ«ñ¨
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓıûØ
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŞÂ
+g	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¥ö¯
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îù†˜
+l	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¬´§úÿÿÿÿ
+l	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü²›şÿÿÿÿ
+g	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¦™
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑ„¨
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´†â²üÿÿÿÿ
+l	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÕÄşÿÿÿÿ
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’°ã¿
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§‹ã…üÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İğÊ‚úÿÿÿÿ
+f	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹€š
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä–Ô€ÿÿÿÿÿ
+l	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸³’Îøÿÿÿÿ
+g	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰•¦­
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( âÌ¼ıÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ©¶§øÿÿÿÿ
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÕú
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¹Şåıÿÿÿÿ
+g	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àõÂñ
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éœ»™ùÿÿÿÿ
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶…¦¯
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚í¬õ
+2
+java:S1643c"Use a StringBuilder instead.(Â¿©·
+2
+java:S1643e"Use a StringBuilder instead.(êÜÄ
+7
+java:S1643i"Use a StringBuilder instead.(éò…ûÿÿÿÿ
+1
+java:S1643k"Use a StringBuilder instead.(×´Àq
+7
+java:S1643m"Use a StringBuilder instead.(–¯üØûÿÿÿÿ
+3
+java:S1643‚"Use a StringBuilder instead.(àáúÖ
+8
+java:S1643Ì"Use a StringBuilder instead.(Óä±—ûÿÿÿÿ
+8
+java:S1643Ø"Use a StringBuilder instead.(Óä±—ûÿÿÿÿ
+3
+java:S1643ş"Use a StringBuilder instead.(¦öÚé
+3
+java:S1643Œ"Use a StringBuilder instead.(¦öÚé
+8
+java:S1643"Use a StringBuilder instead.(í‡€ÿüÿÿÿÿ
+3
+java:S1643³"Use a StringBuilder instead.(‘â„‚
+3
+java:S1643Á"Use a StringBuilder instead.(‘â„‚
+8
+java:S1643Ã"Use a StringBuilder instead.(Õì»ºùÿÿÿÿ
+8
+java:S1643è"Use a StringBuilder instead.(úŠúøÿÿÿÿ
+8
+java:S1643ö"Use a StringBuilder instead.(úŠúøÿÿÿÿ
+8
+java:S1643ø"Use a StringBuilder instead.(Õß¼òÿÿÿÿÿ
+8
+java:S1643 "Use a StringBuilder instead.(ÄÛ¦Ğÿÿÿÿÿ
+3
+java:S1643¢"Use a StringBuilder instead.(­•şÿ
+3
+java:S1643¤"Use a StringBuilder instead.(Òƒô‘
+3
+java:S1643¦"Use a StringBuilder instead.(Â÷·İ
+8
+java:S1643´"Use a StringBuilder instead.(ÄÛ¦Ğÿÿÿÿÿ
+3
+java:S1643¶"Use a StringBuilder instead.(­•şÿ
+3
+java:S1643¸"Use a StringBuilder instead.(Òƒô‘
+3
+java:S1643º"Use a StringBuilder instead.(Â÷·İ
+}
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "timestring".(¬­óßşÿÿÿÿ
+x
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "datastring".(ñŸ¥’
+x
+java:S1488!"]Immediately return this expression instead of assigning it to the temporary variable "error".(‰ï©ïûÿÿÿÿ
+r
+java:S1488("\Immediately return this expression instead of assigning it to the temporary variable "data".(áíßŠ
+t
+java:S1488/"^Immediately return this expression instead of assigning it to the temporary variable "binary".(±ìë
+t
+java:S1488;"^Immediately return this expression instead of assigning it to the temporary variable "result".(äéûì
+I
+java:S3416"3Update this logger to use "NettyServicelmpl.class".(ëçŞ
+c	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥­ÔŠ
+c	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŞğæ
+h
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(àñ†‰
+R
+java:S1854_"7Remove this useless assignment to local variable "STX".(Ì¥ŒÀøÿÿÿÿ
+T
+java:S1854a"9Remove this useless assignment to local variable "gw_id".(£âè¶üÿÿÿÿ
+O
+java:S1854g"9Remove this useless assignment to local variable "spare".(¼ÔÊ½
+S
+java:S1854o"=Remove this useless assignment to local variable "meter_set".(¾î¸©
+N
+java:S1854~"8Remove this useless assignment to local variable "num5".(é¥Ü
+S
+java:S1854€"7Remove this useless assignment to local variable "ETX".(¿¥œÑúÿÿÿÿ
+S
+java:S1854ˆ"7Remove this useless assignment to local variable "CRC".(è™‡ıÿÿÿÿ
+?
+java:S1481P")Remove this unused "num5" local variable.(šÒ’
+>
+java:S1481Q"(Remove this unused "STX" local variable.(Úû¾
+E
+java:S1481R"*Remove this unused "gw_id" local variable.(èâØÚÿÿÿÿÿ
+E
+java:S1481U"*Remove this unused "spare" local variable.(Ïòí¯ÿÿÿÿÿ
+D
+java:S1481Y".Remove this unused "meter_set" local variable.(Œ«ñ¨
+>
+java:S1481Z"(Remove this unused "ETX" local variable.(ÓıûØ
+R	java:S125¡"<This block of commented-out lines of code should be removed.(Ù¬¼Ò
+n
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Æø‘óşÿÿÿÿ
+R	java:S125Î"<This block of commented-out lines of code should be removed.(íîšÛ
+R	java:S125Ú"<This block of commented-out lines of code should be removed.(íîšÛ
+n
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÖÁÁûÿÿÿÿ
+i
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÙÙË’
+h
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(áÚüG
+n
+java:S3776‘"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(·ø«øùÿÿÿÿ
+D
+java:S11444".Remove this unused private "float_set" method.(âŞğæ

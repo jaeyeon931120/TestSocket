@@ -1,0 +1,11 @@
+
+`	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(¿ˆ´øÿÿÿÿ
+J
+java:S1066-"/Merge this if statement with the enclosing one.(Ú‹±íûÿÿÿÿ
+R
+java:S2629("7Use the built-in formatting to construct this argument.(ÎŒşÿÿÿÿ
+b	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò“{
+c
+java:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ø¦š–úÿÿÿÿ
+\
+java:S3457("AFormat specifiers should be used instead of string concatenation.(ÎŒşÿÿÿÿ
